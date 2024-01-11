@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Albrecht Gebhardt',
+    description: 'Collection of KASM workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://alge.github.io/my_kasm_workspaces/',
+    contactUrl: 'https://alge.github.io/my_kasm_workspaces/',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/my_kasm_workspaces/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
