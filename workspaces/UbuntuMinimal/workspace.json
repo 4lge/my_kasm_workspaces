@@ -1,7 +1,7 @@
 {
   "description": "A minimal Ubuntu KASM image.",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "ubuntu.png",
+  "image_src": "ubuntu.jpg",
   "name": "4lge/kasm-ubuntu-empty:v1",
   "run_config": {
     "hostname": "kasm"
