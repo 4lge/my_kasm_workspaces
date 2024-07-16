@@ -8,7 +8,7 @@
   },
   "exec_config": {
     "go": {
-      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"$KASM_URL\"'"
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"http://localhost:8080\"'"
     },
     "assign": {
       "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
