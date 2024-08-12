@@ -3,7 +3,7 @@
   "description": "RStudio",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "RStudio.png",
-  "name": "4lge/kasm-ubuntu-rstudio:master",
+  "name": "4lge/kasm-ubuntu-rstudio:main",
   "run_config": {
     "hostname": "kasm"
   },
